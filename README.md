@@ -1,0 +1,3 @@
+- this script is able to download images given one or more imagefap gallery addresses.
+- if not working, it's probably due to some changes from the website. up until 23.7.11 it should be working fine.
+- python3 is needed.
